@@ -6,7 +6,7 @@ import sys
 
 
 static_dir_path = "./static"
-public_dir_path = "./public"
+public_dir_path = "./docs"
 content_dir_path = "./content"
 template_path = "./template.html"
 default_basepath = "/"
